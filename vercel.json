@@ -23,9 +23,5 @@
       "dest": "/",
       "status": 200
     }
-  ],
-  "env": {
-    "VEXOR_SECRET_KEY": "@vexor_secret_key",
-    "VEXOR_WEBHOOK_SECRET": "@vexor_webhook_secret"
-  }
+  ]
 }
