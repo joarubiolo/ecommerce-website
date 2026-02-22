@@ -25,7 +25,7 @@
     }
   ],
   "env": {
-    "MERCADOPAGO_ACCESS_TOKEN": "@mercadopago_access_token",
-    "SITE_URL": "@site_url"
+    "VEXOR_SECRET_KEY": "@vexor_secret_key",
+    "VEXOR_WEBHOOK_SECRET": "@vexor_webhook_secret"
   }
 }
